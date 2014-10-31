@@ -9,6 +9,20 @@
 WorldWind Geo Graph is a visual demonstration of the Dijkstra
 shortest path algorithm written in Java.
 
+## Running WWGG
+
+This repository contains a project for the JetBrains IntelliJ IDEA
+development enviornment. It is recommended to use that IDE for development.
+The project is configured to run automatically in IDEA under Windows
+and Mac. This program requires that all of the libraries within the
+lib folder be configured to work with the project, however.
+
+For running this project under Linux, or if any issues are encountered
+launching the software, the full set of libraries can be downloaded
+from the WorldWind website.
+
+http://worldwind.arc.nasa.gov/java/
+
 ## License
 
 This project is licensed under the MIT license.
@@ -37,3 +51,15 @@ THE SOFTWARE.
 
 Note that this license does not apply to the included libraries,
 namely the WorldWind SDK.
+
+## Credits
+
+This program's main source code was developed by Matt Eskridge.
+Credit goes to NASA for providing their worldwind 3D globe technology,
+Edsger Dijkstra for development of the Dijkstra algorithm.
+
+The Dijkstra algorithm was uniquely translating into Java for the
+purpose of this project, using as source material the pseudocode
+for Dijkstra from Wikipedia, and the lectures and notes
+of Ajinkya Kulkarni. Testing of the implemented algorithm was performed
+by Matt Eskridge.
