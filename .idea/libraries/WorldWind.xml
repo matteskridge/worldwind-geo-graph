@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="WorldWind">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gdal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/worldwind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/worldwindx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-natives-macosx-universal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

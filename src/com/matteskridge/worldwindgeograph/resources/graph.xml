@@ -1,0 +1,18 @@
+<geograph>
+    <name>Tennessee Valley Road Map</name>
+    <location latitude="34.7300" longitude="-86.5850" />
+    <nodes>
+        <node id="1" name="Huntsville" important="true" latitude="34.7300" longitude="-86.5850" connections="2,3" />
+        <node id="2" name="Decatur" important="true" latitude="34.5810" longitude="-86.9834" connections="1" />
+        <node id="3" name="Madison" important="true" latitude="34.7151" longitude="-86.7396" connections="1" />
+        <node id="4" name="Culman" important="true" latitude="34.1775" longitude="-86.8447" connections="10" />
+        <node id="5" name="Athens" important="true" latitude="34.7897" longitude="-86.9694" connections="3,2" />
+        <node id="6" name="Arab" important="true" latitude="34.3279" longitude="-86.4986" connections="1,9" />
+        <node id="7" name="Moulton" important="true" latitude="34.4823" longitude="-87.2856" connections="2" />
+        <node id="8" name="Florence" important="true" latitude="34.8203" longitude="-87.6628" connections="2,5" />
+        <node id="9" name="231-278" important="false" latitude="34.166752" longitude="-86.516542" connections="6,4" />
+        <node id="10" name="Hartselle" important="true" latitude="34.4403" longitude="-86.9403" connections="4,2" />
+        <node id="11" name="Fayetteville" important="true" latitude="35.1528" longitude="-86.5714" connections="1" />
+        <node id="12" name="Scottsboro" important="true" latitude="34.6514" longitude="-86.0426" connections="1" />
+    </nodes>
+</geograph>
